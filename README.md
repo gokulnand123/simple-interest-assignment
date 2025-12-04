@@ -2,6 +2,8 @@
 
 This repository contains a Bash script to calculate **the simple interest** based on principal, rate, and time.
 
+Updated example for clarity.
+
 ## 📌 Usage
 
 ```bash
